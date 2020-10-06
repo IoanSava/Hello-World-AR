@@ -2,8 +2,8 @@
 
 public class Player : MonoBehaviour
 {
-    public float Distance;
-    private float CLOSE_DISTANCE = 4.0f;
+    private float Distance;
+    public float CloseDistance = 4.0f;
 
     // Start is called before the first frame update
     void Start()
@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         Distance = Vector3.Distance(Camera.main.transform.position, transform.position);
-        if (Distance < CLOSE_DISTANCE)
+        if (Distance < CloseDistance)
         {
             GetComponent<Animator>().SetBool("isCameraClose", true);
         }

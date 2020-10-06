@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9333E5B2-8FDF-BF05-26EB-343D92314340}</ProjectGuid>
+    <ProjectGuid>{4A802C29-9669-0992-9E12-413F97983F50}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -255,7 +255,7 @@
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/PackageCache/com.ptc.vuforia.engine@8.1.12/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/PackageCache/com.ptc.vuforia.engine@8.1.12/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -603,37 +603,37 @@
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/ioans/OneDrive/Desktop/FII/An 3/Semestrul 1/IMR/Labs/Hello World/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/ioans/OneDrive/Desktop/Github repos/Hello-World-AR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
